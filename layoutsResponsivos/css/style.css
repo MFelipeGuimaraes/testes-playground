@@ -1,0 +1,48 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.banner {
+    border: 2px dashed gold;
+    height:100vh;
+    padding: 10px;
+    max-width: 100%;
+
+
+} 
+
+/*header {
+
+    border: 2px solid blueviolet;
+    text-align: center;
+    background-color: rgb(210, 185, 233);
+
+}
+
+section.descricao {
+    border-top: dashed;
+    border-bottom: dashed;
+    
+}*/
+
+section.noticias {
+    overflow: hidden;
+    
+}
+
+/*footer {
+    border: 2px solid black;
+    padding: 30px;
+    margin: 10px;
+}*/
+
+/*p.noticia {
+    padding: 20px;
+    margin: 20px 0;
+    background-color: aquamarine;
+    
+}*/

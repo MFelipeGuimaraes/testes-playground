@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fff58e5a-6649-4beb-b783-da2d58a0b094/dd8ocdt-64885719-f838-4182-90c2-8b87d7f979bd.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmZjU4ZTVhLTY2NDktNGJlYi1iNzgzLWRhMmQ1OGEwYjA5NFwvZGQ4b2NkdC02NDg4NTcxOS1mODM4LTQxODItOTBjMi04Yjg3ZDdmOTc5YmQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.haz9-fs3Lut8BUvxyJXW-169TEC-Twv98_25Dq6McEk);
+    background-size: 1920px;
+    background-repeat: no repeat;
+
+}
+
+p {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: justify;
+    line-height: 20px;
+    background-color: beige;
+    
+}
+
+h2 {
+    font-style: italic;
+    text-align: center;
+    color:aqua;
+    background-color: tomato;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    color: azure;
+    background-color: aquamarine;
+}
